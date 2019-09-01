@@ -13,7 +13,7 @@
     <version>2.1.6.RELEASE</version>
   </parent>
   <name>petclinic</name>
-
+  <!-- trigger webhook-->
   <properties>
 
     <!-- Generic properties -->
